@@ -35,8 +35,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> The core concepts of HTML,CSS and git hub are implemented.These three tools are essential for modern web development and play a critical role in building high-quality websites and applications.
-
 ### Key Features <a name="key-features"></a>
 
 - **[Error-Free]**
